@@ -1,0 +1,18 @@
+{
+  "algorithm": "Simple Linear Regression",
+  "feature": "Study_Hours",
+  "target": "Final_Marks",
+  "records": 3200,
+  "train_records": 2560,
+  "test_records": 640,
+  "intercept": 18.547148407220895,
+  "slope": 7.014121579602832,
+  "mae": 6.821715513976284,
+  "mse": 73.16758888699803,
+  "rmse": 8.553805520760806,
+  "r2": 0.8480531586974559,
+  "random_state": 42,
+  "test_size": 0.2,
+  "equation_formula": "\u0177 = 18.5471 + 7.0141 * x",
+  "dataset_note": "Synthetic educational demonstration dataset; not collected from real students."
+}
